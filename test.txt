@@ -1,0 +1,14 @@
+---------------------------
+
+---------------------------
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:hospitalRegistResponse xmlns:ns2="http://webService.hospital.wondersgroup.com/"><return><?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <MessageHeader>
+        <code>0</code>
+        <desc>成功</desc>
+    </MessageHeader>
+</Response>
+</return></ns2:hospitalRegistResponse></S:Body></S:Envelope>
+---------------------------
+确定   
+---------------------------
